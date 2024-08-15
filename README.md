@@ -17,6 +17,10 @@ Bienvenue dans le cours d'architecture des réseaux ! Ce cours aborde les princi
 
 Vous pouvez télécharger le fichier du cours et les documents associés en utilisant les liens ci-dessus.
 
+## Informations Importantes
+
+> **Note :** Le rapport du Lab 1 doit être envoyé avant la séance du 16 août 2024. De plus, il est impératif d'apporter vos PC avec le logiciel Packet Tracer installé pour la prochaine séance.
+
 ## Contact
 
 Pour toute question ou commentaire, n'hésitez pas à me contacter :
