@@ -5,7 +5,7 @@ Bienvenue dans le cours d'architecture des réseaux ! Ce cours aborde les princi
 ## Contenu du Cours
 
 ### Module 1 : Introduction aux Réseaux et Adressage
-- **[Cours : Introduction aux Réseaux et Adressage](assets/module1/Cours_Architecture_réseaux_module1_partie1.pdf)**
+- **[Cours - Partie 1: Introduction aux Réseaux et Adressage](assets/module1/Cours_Architecture_réseaux_module1_partie1.pdf)**
 
 ### TD et TP du Module 1
 
