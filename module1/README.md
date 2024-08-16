@@ -1,5 +1,5 @@
 # Guide du TD1 - VLSM et Routage Statique
-[Cliquez ici au besoin pour retourner sur la page principale](module1/README.md).
+[Cliquez ici au besoin pour retourner sur la page principale](../README.md).
 
 ## Objectifs du TD1
 
