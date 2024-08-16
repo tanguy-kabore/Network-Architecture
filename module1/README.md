@@ -76,6 +76,7 @@ Pour des instructions détaillées, référez-vous au document [Instructions de 
 
 - Utilisez la commande `ping` du protocole ICMP pour vérifier la connectivité entre les dispositifs de votre réseau.
 
+Merci de prendre un peu de votre temps pour évaluer cette séance [Cliquez ici pour accéder aux formulaire](https://form.jotform.com/242284820882562)
 ## Contact
 
 Pour toute question ou commentaire, n'hésitez pas à me contacter :
