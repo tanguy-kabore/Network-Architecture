@@ -1,17 +1,19 @@
 # Guide du TD1 - VLSM et Routage Statique
+[Cliquez ici au besoin pour retourner sur la page principale](module1/README.md).
 
 ## Objectifs du TD1
 
 L'objectif de ce TD est de s'exercer à l'utilisation du VLSM (Variable Length Subnet Mask). Les objectifs spécifiques sont :
+> **Note :** Télécharger les canevas des differents tabeaux avant de continuer: [network_informations.xlsx](../assets/module1/network_informations.xlsx).
 
 1. **Réalisation d'un Tableau d'Adressage de Sous-Réseau :**
-   - Créez un tableau d'adressage pour les sous-réseaux et remplissez la feuille **`networks`** du fichier Excel [network_informations.xlsx](assets/module1/network_informations.xlsx).
+   - Créez un tableau d'adressage pour les sous-réseaux et remplissez la feuille **`networks`** du fichier Excel.
 
 2. **Tableau d'Adressage des Interfaces :**
-   - Établissez un tableau d'adressage pour les interfaces et complétez la feuille **`interfaces`** du fichier Excel [network_informations.xlsx](assets/module1/network_informations.xlsx).
+   - Établissez un tableau d'adressage pour les interfaces et complétez la feuille **`interfaces`** du fichier Excel.
 
 3. **Table de Routes Statiques :**
-   - Introduisez le routage statique en créant une table de routes statiques et remplissez la feuille **`static routes`** du fichier Excel [network_informations.xlsx](assets/module1/network_informations.xlsx).
+   - Introduisez le routage statique en créant une table de routes statiques et remplissez la feuille **`static routes`** du fichier Excel.
 
 4. **Mini TP :**
    - Réalisez un mini TP portant sur l'introduction aux configurations des interfaces et aux routes statiques.
@@ -41,7 +43,7 @@ Pour obtenir et installer Cisco Packet Tracer, suivez ces étapes :
 4. **Cliquez sur le bouton vert "Skills For All" pour vous authentifier.**
 5. **Packet Tracer se lancera et vous pourrez explorer ses fonctionnalités.**
 
-Pour des instructions détaillées, référez-vous au document [Instructions de Téléchargement et d'Installation de Cisco Packet Tracer](assets/module1/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf).
+Pour des instructions détaillées, référez-vous au document [Instructions de Téléchargement et d'Installation de Cisco Packet Tracer](../assets/module1/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf).
 
 #### Configuration Requise
 
@@ -52,7 +54,7 @@ Pour des instructions détaillées, référez-vous au document [Instructions de 
 
 ## Étapes du TP
 
-> **Note :** Consultez le document [Guide to Cisco Routers Configuration Becoming a Router Geek.pdf](assets/module1/Guide_to_Cisco_Routers_Configuration_Becoming_a_Router_Geek.pdf) pour des ressources supplémentaires.
+> **Note :** Consultez le document [Guide to Cisco Routers Configuration Becoming a Router Geek.pdf](../assets/module1/Guide_to_Cisco_Routers_Configuration_Becoming_a_Router_Geek.pdf) pour des ressources supplémentaires.
 
 ### Étape 1 : Création de la Topologie Réseau
 

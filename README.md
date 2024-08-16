@@ -10,6 +10,7 @@ Bienvenue dans le cours d'architecture des réseaux ! Ce cours aborde les princi
 ### TD et TP du Module 1
 
 - **[TD 1 : Adressage et VLSM](assets/module1/TD_Adressage_VLSM.pdf)**
+    - [Cliquez ici pour voir le guide du TD](module1/README.md)
 - **[TP 1 : Configuration de RIPv2](assets/module1/TP_Configuration_RIPv2.pdf)**
 - **[TP 2 : Configuration d'OSPF](assets/module1/TP_Configuration_OSPF.pdf)**
 
