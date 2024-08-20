@@ -84,7 +84,7 @@ Voici la section révisée avec une rédaction améliorée :
   
   - **Challenge 2 :** Actuellement, lorsqu'un PC est ajouté ou connecté au switch "SIEGE-LAN1" et que le DHCP est activé sur ce PC, il obtient automatiquement une adresse IP. En revanche, dans les autres LANs, ce n'est pas le cas. Pourquoi cette différence ? Comment pouvez-vous résoudre ce problème ? Appliquez la solution à votre topologie et vérifiez que le DHCP fonctionne correctement sur tous les LANs. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
   
-  - **Challenge 3 :** Ajout
+  - **Challenge 3 :** Ajoutez une route redondante sur le routeur du siège pour atteindre tous les sous réseaux de l'agence 2. Comment y procéder ? S'il faut des commandes pour cela, donnez les. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
 
 Merci de prendre un peu de votre temps pour évaluer cette séance [Cliquez ici pour accéder aux formulaire](https://form.jotform.com/242284820882562)
 ## Contact
