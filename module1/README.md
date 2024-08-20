@@ -82,7 +82,7 @@ Voici la section révisée avec une rédaction améliorée :
 
   - **Challenge 1 :** Téléchargez le fichier [Challenge1.pkt](../assets/module1/Challenge1.pkt). Vous devez rendre accessible le site web kabore.com sur toutes les machines du réseau. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
   
-  - **Challenge 2 :** Coming soon !
+  - **Challenge 2 :** Actuellement, lorsqu'un PC est ajouté ou connecté au switch "SIEGE-LAN1" et que le DHCP est activé sur ce PC, il obtient automatiquement une adresse IP. En revanche, dans les autres LANs, ce n'est pas le cas. Pourquoi cette différence ? Comment pouvez-vous résoudre ce problème ? Appliquez la solution à votre topologie et vérifiez que le DHCP fonctionne correctement sur tous les LANs. 
   
   - **Challenge 3 :** Coming soon !
 
