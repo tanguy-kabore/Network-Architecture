@@ -78,7 +78,7 @@ Voici la section révisée avec une rédaction améliorée :
 
 - **Vérification de Connectivité :** Utilisez la commande `ping` du protocole ICMP pour vérifier la connectivité entre les différents dispositifs de votre réseau. Cette commande vous aidera à diagnostiquer les problèmes de communication et à confirmer que vos configurations réseau sont correctes.
 
-- **Network Troubleshooting Challenge :** Cette section sera réalisée sous forme de défis en groupe. Formez des équipes de deux personnes. Chaque challenge devra être complété dans un délai de 15 minutes. Un représentant de chaque groupe sera désigné pour présenter les résultats du challenge à la fin. Voici les défis proposés :
+- **Network Troubleshooting Challenge :** Cette section sera réalisée sous forme de défis en groupe. Formez des équipes de deux personnes. Chaque challenge devra être complété dans un délai de 30 minutes. Un représentant de chaque groupe sera désigné pour présenter les résultats du challenge à la fin. Voici les défis proposés :
 
   - **Challenge 1 :** Téléchargez le fichier [Challenge1.pkt](../assets/module1/Challenge1.pkt). Vous devez rendre accessible le site web kabore.com sur toutes les machines du réseau. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
   
