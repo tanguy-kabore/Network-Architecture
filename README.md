@@ -14,6 +14,9 @@ Bienvenue dans le cours d'architecture des réseaux ! Ce cours aborde les princi
 - **[TP 1 : Configuration de RIPv2](assets/module1/TP_Configuration_RIPv2.pdf)**
 - **[TP 2 : Configuration d'OSPF](assets/module1/TP_Configuration_OSPF.pdf)**
 
+- **[TEST1](assets/evaluations/README.md)**
+    - [Cliquez ici pour voir l'évaluation'](module1/README.md)
+
 ## Téléchargements
 
 Vous pouvez télécharger le fichier du cours et les documents associés en utilisant les liens ci-dessus.
