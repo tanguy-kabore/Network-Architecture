@@ -24,7 +24,7 @@ Ce projet vise à vous familiariser avec la conception et la mise en œuvre d'un
 
 ### 1. **Conception du Réseau**
 
-   - **Adresse Réseau** : L'adresse réseau de base à utiliser est `192.168.0.0/16`.
+   - **Adresse Réseau** : L'adresse réseau de base à utiliser est à déterminer par vous même.
    - **Sous-réseaux** : Divisez l'adresse réseau en plusieurs sous-réseaux pour les départements suivants :
      - Administration
      - Ressources Humaines
