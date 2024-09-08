@@ -30,7 +30,7 @@ Votre tâche consiste à réaliser une interconnexion entre les deux campus en u
    - Testez la connectivité entre les deux campus en effectuant des pings et en vérifiant l'accessibilité du serveur web.
    - Assurez-vous que l'accès SSH fonctionne correctement entre les deux sites.
 
-**Date de rendu :** 22/08/2024 19h15 - 21h00
+**Date de rendu :** 
 
 **Mail de rendu :** Compressez et envoyez le fichier .pkt à l'adresse tanguykabore@yahoo.fr
 

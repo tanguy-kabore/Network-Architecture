@@ -1,28 +1,65 @@
 # Cours d'Architecture des Réseaux
 
-Bienvenue dans le cours d'architecture des réseaux ! Ce cours aborde les principes fondamentaux des réseaux, la gestion avancée des LAN, la configuration des VLAN, et la sécurisation des réseaux.
+## Description
+
+Ce cours est destiné à fournir une compréhension complète des concepts clés en architecture des réseaux. Il est publié en tant que projet open source sous la licence **Creative Commons Attribution (CC BY)**, ce qui vous permet de partager, modifier et redistribuer le contenu tant que vous attribuez correctement les auteurs originaux.
 
 ## Contenu du Cours
 
-### Module 1 : Introduction aux Réseaux et Adressage
-- **[Cours - Partie 1: Introduction aux Réseaux et Adressage](assets/module1/Cours_Architecture_réseaux_module1_partie1.pdf)**
-- **[Cours - Partie 1 et 2: Introduction aux Réseaux et Adressage](assets/module1/Cours_Architecture_réseaux_module1_partie_1_et_2.pdf)**
-### TD et TP du Module 1
+### Partie 1 : Fondamentaux des Réseaux
+- Introduction aux concepts de base des réseaux.
+- Architecture réseau et topologies.
+- Protocoles fondamentaux et modèles OSI/TCP-IP.
 
-- **[TD 1 : Adressage et VLSM](assets/module1/TD_Adressage_VLSM.pdf)**
-    - [Cliquez ici pour voir le guide du TD](module1/README.md)
-- **[TP 1 : Configuration de RIPv2](assets/module1/TP_Configuration_RIPv2.pdf)**
-- **[TP 2 : Configuration d'OSPF](assets/module1/TP_Configuration_OSPF.pdf)**
-- **[TEST1](assets/evaluations/README.md)**
+### Partie 2 : Adressage IPv4
+- Concepts d'adressage IPv4.
+- Sous-réseaux et masques de sous-réseau.
+- Configuration et gestion des adresses IP.
+
+### Partie 3 : Routage
+- Principes de base du routage.
+- Protocoles de routage internes et externes (RIP, OSPF, BGP).
+- Configuration des tables de routage.
+
+### Partie 4 : Réseaux LAN
+- Conception et configuration des réseaux locaux (LAN).
+- Commutation et VLANs.
+- Gestion des performances et de la sécurité du LAN.
+
+### Partie 5 : Commutation Avancée
+- Concepts de commutation avancée.
+- Protocoles de commutation (STP, VTP).
+- Configuration et gestion des VLANs.
+
+### Partie 6 : ACL
+- Introduction aux Listes de Contrôle d'Accès (ACL).
+- Configuration des ACL pour filtrer le trafic.
+- Application des ACL dans différents scénarios réseau.
+
+### Partie 7 : IPv6
+- Concepts d'adressage IPv6.
+- Migration et coexistence IPv4/IPv6.
+- Configuration et gestion des adresses IPv6.
+
+## Contenu du Cours
+
+### Cliquez ici pour télécharger le cours
+- **[Arcitecture des réseaux](assets/Cours_Architecture_réseaux.pdf)**
+
+### TD et TP
+
+- **[TD et TP VLSM](assets/TD_Adressage_VLSM.pdf)**
+    - [Cliquez ici pour voir le guide du TD](assets/td_tp_vlsm.md)
+- **[Test](assets/test.md)**
 - **[Etude de cas](etude.md)**
 
-## Téléchargements
+## Licence
 
-Vous pouvez télécharger le fichier du cours et les documents associés en utilisant les liens ci-dessus.
+Ce cours est sous la **licence Creative Commons Attribution (CC BY)**. Vous êtes libre de partager, modifier, et redistribuer ce contenu tant que vous attribuez correctement les auteurs originaux et respectez les conditions de la licence.
 
-## Informations Importantes
+## Avertissement
 
-> **Note :** Le rapport du Lab 1 doit être envoyé avant la séance du 16 août 2024. De plus, il est impératif d'apporter vos PC avec le logiciel Packet Tracer installé pour la prochaine séance.
+Certaines images et textes utilisés dans ce cours proviennent de sources diverses. Nous avons fait de notre mieux pour créditer les auteurs originaux. Si vous êtes l'auteur d'un contenu utilisé et que vous souhaitez que votre contribution soit correctement mentionnée, veuillez nous contacter à [tanguykabore@yahoo.fr](mailto:tanguykabore@yahoo.fr).
 
 ## Contact
 

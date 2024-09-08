@@ -4,7 +4,7 @@
 ## Objectifs du TD1
 
 L'objectif de ce TD est de s'exercer à l'utilisation du VLSM (Variable Length Subnet Mask). Les objectifs spécifiques sont :
-> **Note :** Télécharger les canevas des differents tabeaux avant de continuer: [network_informations.xlsx](../assets/module1/network_informations.xlsx).
+> **Note :** Télécharger les canevas des differents tabeaux avant de continuer: [network_informations.xlsx](network_informations.xlsx).
 
 1. **Réalisation d'un Tableau d'Adressage de Sous-Réseau :**
    - Créez un tableau d'adressage pour les sous-réseaux et remplissez la feuille **`networks`** du fichier Excel.
@@ -43,7 +43,7 @@ Pour obtenir et installer Cisco Packet Tracer, suivez ces étapes :
 4. **Cliquez sur le bouton vert "Skills For All" pour vous authentifier.**
 5. **Packet Tracer se lancera et vous pourrez explorer ses fonctionnalités.**
 
-Pour des instructions détaillées, référez-vous au document [Instructions de Téléchargement et d'Installation de Cisco Packet Tracer](../assets/module1/Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf).
+Pour des instructions détaillées, référez-vous au document [Instructions de Téléchargement et d'Installation de Cisco Packet Tracer](Cisco_Packet_Tracer_Download_and_Installation_Instructions.pdf).
 
 #### Configuration Requise
 
@@ -54,7 +54,7 @@ Pour des instructions détaillées, référez-vous au document [Instructions de 
 
 ## Étapes du TP
 
-> **Note :** Consultez le document [Guide to Cisco Routers Configuration Becoming a Router Geek.pdf](../assets/module1/Guide_to_Cisco_Routers_Configuration_Becoming_a_Router_Geek.pdf) pour des ressources supplémentaires.
+> **Note :** Consultez le document [Guide to Cisco Routers Configuration Becoming a Router Geek.pdf](Guide_to_Cisco_Routers_Configuration_Becoming_a_Router_Geek.pdf) pour des ressources supplémentaires.
 
 ### Étape 1 : Création de la Topologie Réseau
 
@@ -80,7 +80,7 @@ Voici la section révisée avec une rédaction améliorée :
 
 - **Network Troubleshooting Challenge :** Cette section sera réalisée sous forme de défis en groupe. Formez des équipes de deux personnes. Chaque challenge devra être complété dans un délai de 30 minutes. Un représentant de chaque groupe sera désigné pour présenter les résultats du challenge à la fin. Voici les défis proposés :
 
-  - **Challenge 1 :** Téléchargez le fichier [Challenge1.pkt](../assets/module1/Challenge1.pkt). Vous devez rendre accessible le site web kabore.com sur toutes les machines du réseau. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
+  - **Challenge 1 :** Téléchargez le fichier [Challenge1.pkt](Challenge1.pkt). Vous devez rendre accessible le site web kabore.com sur toutes les machines du réseau. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
   
   - **Challenge 2 :** Actuellement, lorsqu'un PC est ajouté ou connecté au switch "SIEGE-LAN1" et que le DHCP est activé sur ce PC, il obtient automatiquement une adresse IP. En revanche, dans les autres LANs, ce n'est pas le cas. Pourquoi cette différence ? Comment pouvez-vous résoudre ce problème ? Appliquez la solution à votre topologie et vérifiez que le DHCP fonctionne correctement sur tous les LANs. Une fois terminé, renseigner votre proposiion de solution [ici](https://form.jotform.com/242325311442545). Let's go !
   
