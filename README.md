@@ -44,7 +44,7 @@ Ce cours est destiné à fournir une compréhension complète des concepts clés
 ## Contenu du Cours
 
 ### Cliquez ici pour télécharger le cours
-- **[Arcitecture des réseaux](assets/Cours_Architecture_réseaux.pdf)**
+- **[Architecture des réseaux](assets/Cours_Architecture_réseaux.pdf)**
 
 ### TD et TP
 
