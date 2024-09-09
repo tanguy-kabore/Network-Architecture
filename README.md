@@ -41,8 +41,6 @@ Ce cours est destiné à fournir une compréhension complète des concepts clés
 - Migration et coexistence IPv4/IPv6.
 - Configuration et gestion des adresses IPv6.
 
-## Contenu du Cours
-
 ### Cliquez ici pour télécharger le cours
 - **[Architecture des réseaux](assets/Cours_Architecture_réseaux.pdf)**
 
